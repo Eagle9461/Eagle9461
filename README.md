@@ -1,9 +1,11 @@
 Thank you for your visiting my profile
-preview
-<h1 align="center">Full Stack Developer Tyler Lloyd Hill</h1>
-<h3 align="center">A passinate developer from US</h3>
+<br>
+
+<h1 align="center">Full Stack Developer</h1>
+<h3 align="center">A passionate developer from US</h3>
 
 <h3 align="left">Connect with me:</h3>
++1 (415) 761 1332
 <p align="left">
 </p>
 
