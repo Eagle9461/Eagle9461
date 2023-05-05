@@ -1,18 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15604
-Fork on GitHub
-4285
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
+Thank you for your visiting my profile
 preview
 <h1 align="center">Full Stack Developer Tyler Lloyd Hill</h1>
 <h3 align="center">A passinate developer from US</h3>
