@@ -13,7 +13,7 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
   <a href="https://join.skype.com/invite/fuAeAFJdbEPt">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="@gmail.com">
+  <a href="eagle9995.an@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/eagle9995">
