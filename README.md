@@ -7,16 +7,16 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
  ### **_Contact Details_**
 
 <p align='center'>
-  <a href="https://t.me/lightningmickey">
+  <a href="https://t.me/Eagle9461">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/O6nbMhNJwX9n">
+  <a href="https://join.skype.com/invite/fuAeAFJdbEPt">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mickey951112@gmail.com">
+  <a href="@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/akira1112">
+    <a href="https://discordapp.com/users/eagle9995">
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
