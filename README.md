@@ -21,9 +21,6 @@ Hi, I've been working as a Full Stack blockchain developer for over 7 years, bui
   </a>&nbsp;&nbsp;
 </p>
 
- <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
-</div>
 
 ### Languages and Tools:
  
