@@ -60,40 +60,6 @@ Full Stack developer
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
 
 
-### My Portfolio:
-
-<table>
-    <thead align="center">
-        <tr>
-            <td>Metaland NFT Game</td>
-            <td>Tangible</td>           
-            <td>OlympusDao</td>
-            <td>X World Game</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://www.metaland.game/" target="_blank">
-                <img src="/main/portfolio/metaland.png" width="250">
-            </a>
-        </td>
-        <td>
-            <a href="https://www.tangible.store/" target="_blank">
-                <img src="/main/portfolio/olympus.png" width="250">
-            </a>
-        </td> 
-        <td>
-            <a href="https://pro.olympusdao.finance/" target="_blank">
-                <img src="/main/portfolio/tangible.png" width="250">
-            </a>
-        </td>
-        <td>
-            <a href="https://xwg.games/" target="_blank">
-                <img src="/main/portfolio/XWG_game.png" width="250">
-            </a>
-        </td>                
-    </tr>
-</table>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
