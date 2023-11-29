@@ -86,26 +86,6 @@ A self-taught, passionate and fast-learner full-stack developer. Now I am workin
   
 <br /> 
 
-## 🏆 Github Status
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Eagle9461&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle9461&theme=radical" width="45%" >
-
-
-<br /> 
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Eagle9461&theme=onestar&no-frame=true" alt="Eagle Profile Trophies" />
-  </a>
-</div>
-
-
-<br /> 
-
-<div align="center">
-
-## Show some ❤️ by starring ⭐ some of the repositories!
 
 <p align='center'>
   <a href="https://t.me/Eagle9461">
