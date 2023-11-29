@@ -5,10 +5,6 @@
 <h3 align="center">I'm an enthusiastic and passionate about web development</h3>  
 
 
-<div align="left">
-
-<a href="https://app.daily.dev/prionto"><img src="https://api.daily.dev/devcards/df2d5c9fa7ce4e579ee972f740144dec.png?r=y3h" width="25%" align="right" alt="Prionto Adbullah's Dev Card"/></a>
-
 A self-taught, passionate and fast-learner full-stack developer. Now I am working as a frontend engineer at Markopolo.ai 👨‍🎓. I love to work with a cross-functional team and I am learning how to improve the performance of progressive web applications for better user experience. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app. 
 
   <br />
