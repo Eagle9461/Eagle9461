@@ -104,6 +104,5 @@ A self-taught, passionate and fast-learner full-stack developer. Now I am workin
 </p>
 </div>
 
-![](https://i.imgur.com/IuzIC2j.png)
 
 
